@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Category Insight Hub",
+  "description": "A comprehensive system for parsing, indexing, and retrieving structured category reports using Dify, MinerU, and React. Includes a built-in implementation guide for the K8s/Offline environment setup.",
+  "requestFramePermissions": []
+}
